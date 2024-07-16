@@ -5,6 +5,11 @@
         <field>CustomObject__c.CustomField__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>CustomObject__c.CustomField2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Permissions</label>
     <objectPermissions>
