@@ -18,7 +18,13 @@
 			"path": "src/extension-package",
 			"default": false,
 			"package": "SfpExtensionPackage",
-			"versionDescription": ""
+			"versionDescription": "",
+			"dependencies": [
+				{
+					"package": "SfpBasePackage",
+					"versionNumber": "0.1.0.LATEST"
+				}
+			]
 		}
 	],
 	"name": "sfp-demo",
