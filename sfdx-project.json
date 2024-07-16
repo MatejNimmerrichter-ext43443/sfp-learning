@@ -3,11 +3,21 @@
 		{
 			"path": "src-temp",
 			"default": true
+		},
+		{
+			"versionName": "ver 0.1",
+			"versionNumber": "0.1.0.NEXT",
+			"path": "src/base-package",
+			"default": false,
+			"package": "SfpBasePackage",
+			"versionDescription": ""
 		}
 	],
 	"name": "sfp-demo",
 	"namespace": "",
 	"sfdcLoginUrl": "https://login.salesforce.com",
 	"sourceApiVersion": "61.0",
-	"packageAliases": {}
+	"packageAliases": {
+		"SfpBasePackage": "0Ho080000008OMHCA2"
+	}
 }
