@@ -18,6 +18,7 @@
 	"sfdcLoginUrl": "https://login.salesforce.com",
 	"sourceApiVersion": "61.0",
 	"packageAliases": {
-		"SfpBasePackage": "0Ho080000008OMHCA2"
+		"SfpBasePackage": "0Ho080000008OMHCA2",
+		"SfpBasePackage@0.1.0-1": "04t08000000Nw1iAAC"
 	}
 }
