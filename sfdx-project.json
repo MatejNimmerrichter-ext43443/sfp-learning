@@ -5,8 +5,8 @@
 			"default": true
 		},
 		{
-			"versionName": "ver 0.1",
-			"versionNumber": "0.1.0.NEXT",
+			"versionName": "ver 0.2",
+			"versionNumber": "0.2.0.NEXT",
 			"path": "src/base-package",
 			"default": false,
 			"package": "SfpBasePackage",
@@ -28,6 +28,7 @@
 	"packageAliases": {
 		"SfpBasePackage": "0Ho080000008OMHCA2",
 		"SfpBasePackage@0.1.0-1": "04t08000000Nw1iAAC",
-		"SfpExtensionPackage": "0Ho080000008OMMCA2"
+		"SfpExtensionPackage": "0Ho080000008OMMCA2",
+		"SfpBasePackage@0.2.0-1": "04t08000000Nw1nAAC"
 	}
 }
