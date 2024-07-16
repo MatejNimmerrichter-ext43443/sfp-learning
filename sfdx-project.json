@@ -29,6 +29,7 @@
 		"SfpBasePackage": "0Ho080000008OMHCA2",
 		"SfpBasePackage@0.1.0-1": "04t08000000Nw1iAAC",
 		"SfpExtensionPackage": "0Ho080000008OMMCA2",
-		"SfpBasePackage@0.2.0-1": "04t08000000Nw1nAAC"
+		"SfpBasePackage@0.2.0-1": "04t08000000Nw1nAAC",
+		"SfpExtensionPackage@0.1.0-1": "04t08000000Nw1sAAC"
 	}
 }
