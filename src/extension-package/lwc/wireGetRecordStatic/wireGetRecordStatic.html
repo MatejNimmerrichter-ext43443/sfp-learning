@@ -1,0 +1,13 @@
+<template>
+	<lightning-card title="WireGetRecordStatic" icon-name="standard:contact">
+		<template lwc:if={record.data}>
+			<div class="slds-var-m-around_medium">
+				<p>{name}</p>
+				<p>{customField}</p>
+			</div>
+		</template>
+		<template lwc:elseif={record.error}>
+			<c-error-panel errors={record.error}></c-error-panel>
+		</template>
+	</lightning-card>
+</template>
