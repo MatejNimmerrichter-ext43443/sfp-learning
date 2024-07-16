@@ -11,6 +11,14 @@
 			"default": false,
 			"package": "SfpBasePackage",
 			"versionDescription": ""
+		},
+		{
+			"versionName": "ver 0.1",
+			"versionNumber": "0.1.0.NEXT",
+			"path": "src/extension-package",
+			"default": false,
+			"package": "SfpExtensionPackage",
+			"versionDescription": ""
 		}
 	],
 	"name": "sfp-demo",
@@ -19,6 +27,7 @@
 	"sourceApiVersion": "61.0",
 	"packageAliases": {
 		"SfpBasePackage": "0Ho080000008OMHCA2",
-		"SfpBasePackage@0.1.0-1": "04t08000000Nw1iAAC"
+		"SfpBasePackage@0.1.0-1": "04t08000000Nw1iAAC",
+		"SfpExtensionPackage": "0Ho080000008OMMCA2"
 	}
 }
