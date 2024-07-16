@@ -1,0 +1,13 @@
+{
+	"tag": "dev-pool",
+	"maxAllocation": 2,
+	"batchSize": 2,
+	"expiry": 17,
+	"configFilePath": "config/project-scratch-def.json",
+	"relaxAllIPRanges": true,
+	"installAll": true,
+	"enableSourceTracking": true,
+	"retryOnFailure": true,
+	"succeedOnDeploymentErrors": false,
+	"waitTime": 20
+}
